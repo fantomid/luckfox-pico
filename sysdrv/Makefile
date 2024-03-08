@@ -252,7 +252,7 @@ endif
 endif
 
 BUSYBOX_CFG ?= config_normal
-BUSYBOX_VER ?= busybox-1.27.2
+BUSYBOX_VER ?= busybox-1.36.1
 BUSYBOX_DIR ?= $(SYSDRV_DIR)/source/busybox
 
 BUILDROOT_CFG ?= config_normal
